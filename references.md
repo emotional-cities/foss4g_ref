@@ -16,16 +16,16 @@ Kotsev, Alexander, Marco Minghini, Robert Tomas, Vlado Cetl, and Michael Lutz. 2
 
 OpenAPI Initiative. 2011. “OpenAPI Specification.” Swagger. https://swagger.io/specification/.
 
-OGC. 2020. “OGC APIs - Building Blocks for Location.” OGC APIs. https://ogcapi.ogc.org/
+OGC. 2020a. “OGC APIs - Building Blocks for Location.” OGC APIs. https://ogcapi.ogc.org/
 
-OGC. 2022a. “OGC API - Features.” Github. https://github.com/opengeospatial/ogcapi-
+OGC. 2022b. “OGC API - Features.” Github. https://github.com/opengeospatial/ogcapi-
 features
 
-OGC. 2022b. “OGC API - Environmental Data Retrieval.” Github. https://github.com/opengeospatial/ogcapi-environmental-data-retrieval
+OGC. 2022c. “OGC API - Environmental Data Retrieval.” Github. https://github.com/opengeospatial/ogcapi-environmental-data-retrieval
 
-OGC. 2022c. “OGC API - Common.” Github. https://github.com/opengeospatial/ogcapi-common
+OGC. 2022d. “OGC API - Common.” Github. https://github.com/opengeospatial/ogcapi-common
 
-OGC. 2022d. “OGC API - Processes.” Github. https://github.com/opengeospatial/ogcapi-processes
+OGC. 2022e. “OGC API - Processes.” Github. https://github.com/opengeospatial/ogcapi-processes
 
 OSGeo. Open Source Geospatial Foundation Wiki 2012, accessed 18 February 2022, <https://wiki.osgeo.org/wiki/Open_Source_and_Open_Standards#Open_Geospatial_Consortium>
 
