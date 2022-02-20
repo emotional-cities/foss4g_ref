@@ -7,7 +7,7 @@ Elastic. The products that started it all, accessed 18 February 2022, <https://w
 
 eMOTIONAL Cities - Mapping the cities through the senses of those who make them 2021, accessed 14 February 2022, <https://emotionalcities-h2020.eu/>
 
-Github. eMOTIONAL Cities H2020 Project 2021, accessed 18 February 2022, <https://github.com/emotional-cities>
+eMOTIONAL Cities H2020 Project. 2021. pygeoapi fork. GitHub repository. [![DOI](https://zenodo.org/badge/388576649.svg)](https://zenodo.org/badge/latestdoi/388576649)
 
 Hackman, Daniel A., Stephanie A. Robert, Jascha Grübel, Raphael P. Weibel, Eirini Anagnostou, Christoph Hölscher and Victor R. Schinazi. 2019. "Neighborhood environments influence emotion and physiological reactivity". Sci Rep 9, 9498. https://doi.org/10.1038/s41598-019-45876-8
 
